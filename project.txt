@@ -1,2 +1,3 @@
 file project baru
 fitur baru dari project feature-1
+fitur baru dari project feature-2
